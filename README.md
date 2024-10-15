@@ -15,10 +15,6 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.facebook.com/MouseBien" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/lehaibien02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
 - 💼 I'm currently working on: **💻 Developing an ecommerce project using NextJS and .NET 8.**
 - 🌱 I'm currently learning: **📚 NextJS 14, Jotai**
 
