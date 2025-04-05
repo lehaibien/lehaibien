@@ -21,6 +21,10 @@
 
 - 💼 I'm currently working on: **💻 Developing an ecommerce project using NextJS 14 App Router and ASP.NET Core 8.**
 - 🌱 I'm currently learning: **📚 NextJS 15**
+ 
+**<h3 align="left">Hosting services </h3>**
+
+<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff " height="32" />
 
  **<h3 align="left">Skills</h3>**
 
