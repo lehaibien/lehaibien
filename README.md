@@ -1,4 +1,4 @@
-![Le Hai Bien](/diy-anime.gif )
+![Le Hai Bien](/diy-anime.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=lehaibien&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -13,7 +13,11 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.facebook.com/MouseBien" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/lehaibien02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="https://www.facebook.com/MouseBien" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a>
+  <a href="https://www.linkedin.com/in/lehaibien02" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff " height="28" style="margin-right: 4px"></a>
+  <a href="https://x.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white " height="28" style="margin-right: 4px"></a>
+  <a href="https://github.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 - 💼 I'm currently working on: **💻 Developing an ecommerce project using NextJS 14 App Router and ASP.NET Core 8.**
 - 🌱 I'm currently learning: **📚 NextJS 15**
