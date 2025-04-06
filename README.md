@@ -22,9 +22,17 @@
 - 💼 I'm currently working on: **💻 Developing an ecommerce project using NextJS 14 App Router and ASP.NET Core 8.**
 - 🌱 I'm currently learning: **📚 NextJS 15**
  
+**<h3 align="left">Code editor</h3>**
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
+
 **<h3 align="left">Hosting services </h3>**
 
-<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff " height="32" />
+[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
  **<h3 align="left">Skills</h3>**
 
