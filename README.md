@@ -1,16 +1,10 @@
-![Le Hai Bien](/diy-anime.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=lehaibien&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Le Hai Bien
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  ![Le Hai Bien](/diy-anime.gif)
 </div>
+
+<h1 align="center">
+  Le Hai Bien
+</h1>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
