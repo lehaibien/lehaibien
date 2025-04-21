@@ -11,10 +11,10 @@
   <a href="https://www.facebook.com/MouseBien" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://www.linkedin.com/in/lehaibien02" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff " height="28" style="margin-right: 4px"></a>
   <a href="https://x.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white " height="28" style="margin-right: 4px"></a>
-  <a href="https://github.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+  <a href="https://github.com/lehaibien" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
+</p>
 
-- 💼 I'm currently working on: **💻 Developing an ecommerce project using NextJS 14 App Router and ASP.NET Core 8.**
-- 🌱 I'm currently learning: **📚 NextJS 15**
+- 💼 I'm currently working on: **💻 Migrating ecommerce project from Next.js 14 to Next.js 15 and make it better.**
 
 **<h3 align="left">Skills</h3>**
 
