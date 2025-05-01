@@ -1,7 +1,4 @@
 ![Intro gif](/diy-anime.gif)
-<p align="center">
-  <img src="./diy-anime.gif" alt="Intro gif" width="640" height="360" />
-</p>
 
 <h1 align="center">
   Le Hai Bien
